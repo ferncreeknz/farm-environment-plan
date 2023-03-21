@@ -1,2 +1,3 @@
-# farm-environment-plan
-The Fern Creek farm environment plan
+# Farm environment plan
+
+The farm environment plan for Fern Creek as it grows and develops.
